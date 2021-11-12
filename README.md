@@ -1,2 +1,3 @@
-# FYI-Fortunately-you-are-Inefficient-
-FYI – Fortunately, you are Inefficient!, published by Packt
+# Efficiency Best Practices for Microsoft 365
+## Sample files and additional resources
+by Dr. Nitin Paranjape
